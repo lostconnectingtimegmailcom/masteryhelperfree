@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/lostconnectingtimegmailcom/solo/refs/heads/main/v2'))()
